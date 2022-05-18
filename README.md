@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa</h1>
-<h3 align="center">Third-Year Computer Engineer Student</h3>
+<h3 align="center">Third-Year Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 📫 How to reach me **esraa.salah00@eng-st.cu.edu.eg**
